@@ -15,5 +15,9 @@
     "url": "https://github.com/harshitkohli1997/Rpc_service/issues"
   },
   "homepage": "https://github.com/harshitkohli1997/Rpc_service#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "grpc": "^1.24.2",
+    "uuid": "^7.0.3"
+  }
 }
